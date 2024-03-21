@@ -1,18 +1,12 @@
 # Election Dapp
 
----
-
 此專案來源:[https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial)
 
 ## Description
 
----
-
 這是一個有關電子投票選舉系統的去中心化應用程式，它模擬電子投票的方式。利用冷錢包連結電子投票web3網站，並且透過扣除ETH測試幣方式做出投票動作。
 
 ## **Dependencies**
-
----
 
 **1.NPM**（Node Package Manager）：Node.js 的套件管理工具，用於安裝和管理 JavaScript 套件。在智能合約開發中，可以使用 NPM 安裝 Truffle、Mocha、Chai 等工具。
 
@@ -35,8 +29,6 @@ npm install -g truffle
 **6.Metamask**：一個用於在瀏覽器中管理以太坊資產的加密錢包擴展。Metamask 可以與以太坊網路互動，用於在瀏覽器中執行智能合約交互操作，例如發送交易、簽署合約等。
 
 ## 環境建置
-
----
 
 1. 
 
